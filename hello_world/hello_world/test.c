@@ -4,5 +4,5 @@ int main() {
 	printf("Hello");
 
 
-	//here some ch 
+	//here something that I need to do with C programming
 }
